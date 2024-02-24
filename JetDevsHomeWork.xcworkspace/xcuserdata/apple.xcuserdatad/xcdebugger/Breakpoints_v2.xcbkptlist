@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7D21BA7D-9198-40E2-813F-94C605F320EE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B644BA3-1426-4A19-BE28-AB6B9DB3E884"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JetDevsHomeWork/Common/APIManager/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "callAPI(url:headers:parameters:methodType:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1B644BA3-1426-4A19-BE28-AB6B9DB3E884 - 70887537757a9825"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JetDevsHomeWork.APIManager.callAPI&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Swift.String, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, methodType: JetDevsHomeWork.APIManager.MethodType, completion: (Swift.Result&lt;&#x3c4;_0_0, JetDevsHomeWork.APIError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JetDevsHomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/homework-main/JetDevsHomeWork/Common/APIManager/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1727">
+               </Location>
+               <Location
+                  uuid = "1B644BA3-1426-4A19-BE28-AB6B9DB3E884 - 70887537757a9825"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JetDevsHomeWork.APIManager.callAPI&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Swift.String, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, methodType: JetDevsHomeWork.APIManager.MethodType, completion: (Swift.Result&lt;&#x3c4;_0_0, JetDevsHomeWork.APIError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JetDevsHomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/homework-main/JetDevsHomeWork/Common/APIManager/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1697">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A73EAECD-AF3F-4E75-8400-966B96144857"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JetDevsHomeWork/Common/APIManager/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "callAPI(url:headers:parameters:methodType:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A73EAECD-AF3F-4E75-8400-966B96144857 - 70887537757a988a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JetDevsHomeWork.APIManager.callAPI&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Swift.String, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, methodType: JetDevsHomeWork.APIManager.MethodType, completion: (Swift.Result&lt;&#x3c4;_0_0, JetDevsHomeWork.APIError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JetDevsHomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/homework-main/JetDevsHomeWork/Common/APIManager/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "2332">
+               </Location>
+               <Location
+                  uuid = "A73EAECD-AF3F-4E75-8400-966B96144857 - 70887537757a988a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JetDevsHomeWork.APIManager.callAPI&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Swift.String, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, methodType: JetDevsHomeWork.APIManager.MethodType, completion: (Swift.Result&lt;&#x3c4;_0_0, JetDevsHomeWork.APIError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JetDevsHomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/homework-main/JetDevsHomeWork/Common/APIManager/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "2269">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1795F2F7-0A1A-4281-AE40-1F6F2F46EE6B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JetDevsHomeWork/Common/Constants/Constants.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "timeAgoString(from:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "1795F2F7-0A1A-4281-AE40-1F6F2F46EE6B - b471a750b7dfd324"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JetDevsHomeWork.timeAgoString(from: Swift.String) -&gt; Swift.String"
+                  moduleName = "JetDevsHomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/homework-main/JetDevsHomeWork/Common/Constants/Constants.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "4021">
+               </Location>
+               <Location
+                  uuid = "1795F2F7-0A1A-4281-AE40-1F6F2F46EE6B - b471a750b7dfd347"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JetDevsHomeWork.timeAgoString(from: Swift.String) -&gt; Swift.String"
+                  moduleName = "JetDevsHomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/homework-main/JetDevsHomeWork/Common/Constants/Constants.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "4944">
+               </Location>
+               <Location
+                  uuid = "1795F2F7-0A1A-4281-AE40-1F6F2F46EE6B - b471a750b7dfd324"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JetDevsHomeWork.timeAgoString(from: Swift.String) -&gt; Swift.String"
+                  moduleName = "JetDevsHomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/homework-main/JetDevsHomeWork/Common/Constants/Constants.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "4604">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87DC7F28-339D-43FB-91B1-A6BED57EFD72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JetDevsHomeWork/Common/Extension/ControllerExtension/UIViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "pushVC(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF665020-A266-4556-8D95-85A94E04C8CC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JetDevsHomeWork/Login/ViewModel/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "performLogin()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DF665020-A266-4556-8D95-85A94E04C8CC - 47497df74b831153"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;JetDevsHomeWork.CommonResponse, JetDevsHomeWork.APIError&gt;) -&gt; () in JetDevsHomeWork.LoginViewModel.performLogin() -&gt; ()"
+                  moduleName = "JetDevsHomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/homework-main/JetDevsHomeWork/Login/ViewModel/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1195">
+               </Location>
+               <Location
+                  uuid = "DF665020-A266-4556-8D95-85A94E04C8CC - 47497df74b831153"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;JetDevsHomeWork.CommonResponse, JetDevsHomeWork.APIError&gt;) -&gt; () in JetDevsHomeWork.LoginViewModel.performLogin() -&gt; ()"
+                  moduleName = "JetDevsHomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/homework-main/JetDevsHomeWork/Login/ViewModel/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "856">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E5D2AAD-A7EA-4A8B-9E04-AFF504C14106"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JetDevsHomeWork/Login/ViewModel/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "performLogin()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3E5D2AAD-A7EA-4A8B-9E04-AFF504C14106 - 47497df74b83118d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;JetDevsHomeWork.CommonResponse, JetDevsHomeWork.APIError&gt;) -&gt; () in JetDevsHomeWork.LoginViewModel.performLogin() -&gt; ()"
+                  moduleName = "JetDevsHomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/homework-main/JetDevsHomeWork/Login/ViewModel/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "729">
+               </Location>
+               <Location
+                  uuid = "3E5D2AAD-A7EA-4A8B-9E04-AFF504C14106 - 47497df74b83118d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;JetDevsHomeWork.CommonResponse, JetDevsHomeWork.APIError&gt;) -&gt; () in JetDevsHomeWork.LoginViewModel.performLogin() -&gt; ()"
+                  moduleName = "JetDevsHomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/homework-main/JetDevsHomeWork/Login/ViewModel/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "887">
+               </Location>
+               <Location
+                  uuid = "3E5D2AAD-A7EA-4A8B-9E04-AFF504C14106 - 47497df74b83116c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;JetDevsHomeWork.CommonResponse, JetDevsHomeWork.APIError&gt;) -&gt; () in JetDevsHomeWork.LoginViewModel.performLogin() -&gt; ()"
+                  moduleName = "JetDevsHomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/homework-main/JetDevsHomeWork/Login/ViewModel/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  uuid = "3E5D2AAD-A7EA-4A8B-9E04-AFF504C14106 - 47497df74b83116c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;JetDevsHomeWork.CommonResponse, JetDevsHomeWork.APIError&gt;) -&gt; () in JetDevsHomeWork.LoginViewModel.performLogin() -&gt; ()"
+                  moduleName = "JetDevsHomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/homework-main/JetDevsHomeWork/Login/ViewModel/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "720">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61EB3E0F-9E3E-47CF-8BBB-5667247342DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JetDevsHomeWork/Login/ViewModel/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "performLogin()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "61EB3E0F-9E3E-47CF-8BBB-5667247342DD - 47497df74b831674"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;JetDevsHomeWork.CommonResponse, JetDevsHomeWork.APIError&gt;) -&gt; () in JetDevsHomeWork.LoginViewModel.performLogin() -&gt; ()"
+                  moduleName = "JetDevsHomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/homework-main/JetDevsHomeWork/Login/ViewModel/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "2780">
+               </Location>
+               <Location
+                  uuid = "61EB3E0F-9E3E-47CF-8BBB-5667247342DD - 47497df74b831674"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;JetDevsHomeWork.CommonResponse, JetDevsHomeWork.APIError&gt;) -&gt; () in JetDevsHomeWork.LoginViewModel.performLogin() -&gt; ()"
+                  moduleName = "JetDevsHomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/homework-main/JetDevsHomeWork/Login/ViewModel/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1940">
+               </Location>
+               <Location
+                  uuid = "61EB3E0F-9E3E-47CF-8BBB-5667247342DD - 47497df74b831674"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;JetDevsHomeWork.CommonResponse, JetDevsHomeWork.APIError&gt;) -&gt; () in JetDevsHomeWork.LoginViewModel.performLogin() -&gt; ()"
+                  moduleName = "JetDevsHomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/homework-main/JetDevsHomeWork/Login/ViewModel/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1996">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
